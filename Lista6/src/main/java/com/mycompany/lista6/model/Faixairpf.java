@@ -8,6 +8,6 @@ package com.mycompany.lista6.model;
  *
  * @author gtvargas
  */
-public class Faixairpf {
-    
+public enum Faixairpf {
+    PRIMEIRA,SEGUNDA,TERCEIRA,QUARTA,QUINTA;
 }
